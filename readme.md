@@ -17,6 +17,10 @@
 
 ## Links
 
+- Solution URL: [](https://github.com/SamuelTamunoateli/product-preview-card-component)
+- Live Site URL: [](https://samueltamunoateli.github.io/product-preview-card-component/)
+
+
 ## Built with
 
 - Semantic HTML5 markup
@@ -44,8 +48,8 @@ Areas on
 
 ## Useful Resources
 
-W3 schools
-css-tricks.com
+- W3 schools
+- css-tricks.com
 
 ## Author
 
