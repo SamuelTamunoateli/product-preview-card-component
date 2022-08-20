@@ -24,7 +24,7 @@
 /* mobile */
 body {
   background-color: var(--cream);
-  height: 110vh;
+  min-height: 110vh;
 }
 body,
 .container {
@@ -36,7 +36,6 @@ body,
 .container {
   background-color: var(--white);
   width: 90%;
-  max-height: 90%;
   border-radius: 10px;
 }
 .product-pic{
@@ -121,23 +120,18 @@ a {
 }
 @media screen and (min-width: 450px) {
   .container{
-    width: 70%;
-  }  
-}
-@media screen and (min-width: 550px) {
-  .container{
-    width: 60%;
+    width: 30em;
   }  
 }
 
 /* desktop */
 @media screen and (min-width: 700px) {
   body {
-    max-height: 100vh;
+    min-height: 100vh;
   }
   .container {
     flex-direction: row;
-    width: 80%;
+    width: 40em;
   }
   .product-pic {
     flex: 50%;
@@ -148,29 +142,8 @@ a {
     border-top-left-radius: inherit;
     border-top-right-radius: 0;
     border-bottom-left-radius: inherit;
-
   }
   .product-description {
     flex: 50%;
-  }
-}
-@media screen and (min-width: 900px) {
-  .container {
-    width: 63%;
-  }
-}
-@media screen and (min-width: 1000px) {
-  .container{
-    width: 56%;
-  }  
-}
-@media screen and (min-width: 1200px) {
-  .container {
-    width: 46%;
-  }
-}
-@media screen and (min-width: 1400px) {
-  .container {
-    width: 40%;
   }
 }
