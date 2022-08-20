@@ -17,8 +17,8 @@
 
 ## Links
 
-- Solution URL: [https://github.com/SamuelTamunoateli/product-preview-card-component](https://github.com/SamuelTamunoateli/product-preview-card-component)
-- Live Site URL: [https://samueltamunoateli.github.io/product-preview-card-component](https://samueltamunoateli.github.io/product-preview-card-component/)
+- Solution URL: [https://github.com/amateli/product-preview-card-component](https://github.com/amateli/product-preview-card-component)
+- Live Site URL: [https://amateli.github.io/product-preview-card-component](https://amateli.github.io/product-preview-card-component/)
 
 
 ## Built with
