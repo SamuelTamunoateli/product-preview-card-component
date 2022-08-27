@@ -11,14 +11,20 @@
 
 ## Overview
 
+The challenge is to replicate the product preview card component and get it looking as close to the design as possible.  
+
+Users should be able to:
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements.
+
 ## Screenshot
 
 ![](/Screenshot%202022-07-26%20012203.png)
 
 ## Links
 
-- Solution URL: [https://github.com/amateli/product-preview-card-component](https://github.com/amateli/product-preview-card-component)
-- Live Site URL: [https://amateli.github.io/product-preview-card-component](https://amateli.github.io/product-preview-card-component/)
+- Solution URL: [Code](https://github.com/amateli/product-preview-card-component)
+- Live Site URL: [Live-link](https://amateli.github.io/product-preview-card-component/)
 
 
 ## Built with
